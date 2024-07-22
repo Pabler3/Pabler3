@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Astro-0A0A0A?logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white" alt="Vercel">
+
 </p>
 
 
